@@ -2,7 +2,7 @@ Implemetation of Dijkstra's algorithm to solve the following problem:
 
 Given a set of cities (nodes), their roads linking each other (edges) and
 the maximum speed at that road, return the fastest way from a city to another
-
+```
 INPUT Example:
 25				//Maximum default speed
 a b 1.3			//City A to City B have 1.3 km and its speed is the default speed
@@ -44,3 +44,4 @@ Origem nao existe	//Starting point does not exist in the set of cities
 Destino nao existe	//Ending point does not exist in the set of cities
 
 Nao existe caminho de A para N fim	//There is no path from A to N
+```
